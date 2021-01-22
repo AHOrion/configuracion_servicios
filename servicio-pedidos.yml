@@ -2,8 +2,8 @@ server:
   port: 8000  
   
 spring:
-  application:
-    name: servicio-pedidos
+  
+    
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3307/tiendavirtual?serverTimezone=Europe/Madrid
